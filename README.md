@@ -7,7 +7,7 @@ HTML Renderer [![Build status](https://ci.appveyor.com/api/projects/status/cm8xp
 
 #### Documentation, Discussion and Issue tracking is on [CodePlex](https://htmlrenderer.codeplex.com/).
 
-**Cross framework** (WinForms/WPF/PDF/Metro/Mono/etc.), **Multipurpose** (UI Controls / Image generation / PDF generation / etc.), **100% managed** (C#), High performance HTML Rendering library.
+**Cross framework** (WinForms/WPF/PDF/UWP/Mono/etc.), **Multipurpose** (UI Controls / Image generation / PDF generation / etc.), **100% managed** (C#), High performance HTML Rendering library.
 
 The library is 100% managed **C#** code without any external dependencies (no WebBrowser control, ActiveX / COM or MSHTML dll), the only requirement is **.NET 2.0 or higher**.
 
